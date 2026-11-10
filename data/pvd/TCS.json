@@ -1,0 +1,18 @@
+[
+  {
+    "metric": "margin",
+    "said": "26%-28% long-term",
+    "call": "Transcript #4",
+    "got": "25% operating margin",
+    "status": "miss",
+    "quote": "to deliver an operating margin of 25%"
+  },
+  {
+    "metric": "Employee cost as % of revenue",
+    "said": "45% next 2-3 quarters",
+    "call": "",
+    "got": "not reported",
+    "status": "unc",
+    "quote": ""
+  }
+]
